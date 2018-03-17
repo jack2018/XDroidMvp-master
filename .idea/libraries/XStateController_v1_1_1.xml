@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="XStateController-v1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/1470a0ae1f95ca8c6510b8d7c1ccb74d82123f7b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1470a0ae1f95ca8c6510b8d7c1ccb74d82123f7b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.limedroid/XStateController/v1.1.1/7d914e929c6e7bcbf6a8060404ced48d5105d219/XStateController-v1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
